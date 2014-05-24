@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Visual IVR</string>
+    <string name="action_settings">Settings</string>
+    <string name="rest_api_call">To make a REST API request press here</string>
+    <string name="http_request">To make a HTTP request press here</string>
+    <string name="help_request">For Help press here</string>
+    <string name="call_agent">To talk to an Agent press here</string>
+    <string name="title_activity_rest">RestActivity</string>
+
+    <string name="id_label">The ID is</string>
+    <string name="id_value">[id]</string>
+    <string name="content_label">The Content is</string>
+    <string name="content_value">[content]</string>
+
+</resources>
